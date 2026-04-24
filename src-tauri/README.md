@@ -1,1 +1,1 @@
-_this is where tauri lives_
+_this is the application package_

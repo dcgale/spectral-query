@@ -1,1 +1,1 @@
-_this is where the front end lives_
+_this is the frontend package_
